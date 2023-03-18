@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mattbaranello
-- 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning SQl and R.
-- 💞️ I’m looking to collaborate on preparing and cleaning data for analysis.
+- 👀 I’m interested in backend development.
+- 🌱 I’m currently learning SQl, Java, and Spring Boot.
+- 💞️ I’m looking to collaborate on backend development projects.
 - 📫 How to reach me: baran3llo@gmail.com
 
 <!---
