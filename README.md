@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattbaranello
 - 👀 I’m interested in backend development.
-- 🌱 I’m currently learning SQl, Java, and Spring Boot.
+- 🌱 I’m currently learning SQL, Java, and Spring Boot.
 - 💞️ I’m looking to collaborate on backend development projects.
 - 📫 How to reach me: baran3llo@gmail.com
 
